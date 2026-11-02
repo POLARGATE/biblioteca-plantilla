@@ -1,0 +1,11 @@
+{
+  "name": "polargate-biblioteca",
+  "owner": {
+    "name": "Polargate",
+    "email": "hello@polargate.ai"
+  },
+  "metadata": {
+    "description": "Tu biblioteca de Polargate: las skills que tienes, en tu repo privado."
+  },
+  "plugins": []
+}
